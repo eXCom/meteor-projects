@@ -1,0 +1,33 @@
+<head>
+    <meta charser="utf-8"/>
+    <title>Learn meteor</title>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="profile-area">
+            <div id="side-profile" class="side-box"><a>Username</a></div>
+            <div id="side-all" class="side-box"><a>Community</a></div>
+            <div id="side-youlike" class="side-box">
+                <h3>Following</h3>
+                <div class="boxcontent">
+                    <div><a class="filter-user">fariazz</a></div>
+                    <div><a class="filter-user">example</a></div>
+                    <div><a class="filter-user">example2</a></div>
+                </div>
+            </div>
+            <div id="side-likeyou" class="side-box">
+                <h3>Follows you</h3>
+                <div class="boxcontent">
+                    <div><a class="filter-user">fariazz</a></div>
+                    <div><a class="filter-user">example</a></div>
+                    <div><a class="filter-user">example2</a></div>
+                    <div><a class="filter-user">example3</a></div>
+                </div>
+            </div>
+        </div>
+        <div id="feed-area">
+            {{> postForm}}
+            {{> postsList}}
+        </div>
+    </div>
+</body>

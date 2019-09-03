@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a646d06f-666b-4b62-b0ca-b6ebb5e71b82" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;a</find>
+      <find>feed-area</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learnmeteor" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1777" />
+    <option name="y" value="252" />
+    <option name="width" value="1371" />
+    <option name="height" value="581" />
+  </component>
+  <component name="ProjectId" id="1P69iEArVDo4EpKAh08H17Kojce" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.meteor.library.cached" value="$PROJECT_DIR$/.meteor" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="js.meteor.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../score-keep" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a646d06f-666b-4b62-b0ca-b6ebb5e71b82" name="Default Changelist" comment="" />
+      <created>1562053783801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562053783801</updated>
+      <workItem from="1562053784906" duration="12059000" />
+      <workItem from="1562134996615" duration="6099000" />
+      <workItem from="1562144472899" duration="166000" />
+      <workItem from="1562144649745" duration="1863000" />
+      <workItem from="1562223239751" duration="499000" />
+      <workItem from="1562223869273" duration="3447000" />
+      <workItem from="1562231979344" duration="7933000" />
+      <workItem from="1562247456420" duration="24000" />
+      <workItem from="1562247498579" duration="970000" />
+      <workItem from="1562248493632" duration="300000" />
+      <workItem from="1562248834608" duration="558000" />
+      <workItem from="1562249807829" duration="1132000" />
+      <workItem from="1562250968814" duration="899000" />
+      <workItem from="1562251983818" duration="265000" />
+      <workItem from="1562252273445" duration="340000" />
+      <workItem from="1562311487212" duration="846000" />
+      <workItem from="1562313127527" duration="700000" />
+      <workItem from="1562832532712" duration="88000" />
+      <workItem from="1562938539443" duration="1610000" />
+      <workItem from="1565183804570" duration="16000" />
+      <workItem from="1565620593412" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/learnmeteor" />
+    </ignored-roots>
+  </component>
+</project>
