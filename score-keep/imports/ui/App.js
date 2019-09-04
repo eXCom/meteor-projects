@@ -6,7 +6,7 @@ import AddPlayer from './AddPlayer';
 import PlayerList from './PlayerList';
 import {Players} from "../api/players";
 
-let players = Players.find().fetch();
+let players = Players.find({}, {sort:{score: -1}}).fetch();
 let title = 'Score Keep';
 
 export default class App extends React.Component {
